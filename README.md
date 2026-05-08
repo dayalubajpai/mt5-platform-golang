@@ -1,5 +1,5 @@
 # MT5 Trading Platform
-![alt text](image.png)
+![alt text](image-1.png)
 
 How the system works (the short tour)
 Data flows top-down through 6 tiers, with two distinct paths shown by the arrow colors in the diagram:
